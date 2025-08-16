@@ -22,7 +22,6 @@ Currently learning and working with modern tools to improve my skills in full st
 ## 📫 Contact
 - Email: Zayaan Lawrence
 - LinkedIn: www.linkedin.com/in/zayaan-lawrence-481655262
-- Portfolio: [your portfolio link, if you have one]
 
 ---
 
