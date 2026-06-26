@@ -16,6 +16,7 @@ Currently learning and working with modern tools to improve my skills in full st
 ## 📂 Projects
 - **AbeautyEmprire (https://zayaanlawrence101.wixstudio.com/beauty-business)** – A modern, responsive website designed for a beauty business, showcasing services, pricing, and booking features.
 - **Chewy Chum (https://zayaanlawrence101.wixstudio.com/website)** – An engaging website for a retailer, featuring product displays, customer information, and a friendly, user-focused design.
+- **Ecocycle (https://zayaanlawrence101.wixsite.com/ecocycle)** - Designed and developed a modern, responsive website for EcoCycle, promoting sustainable waste management services.
 
 ---
 
